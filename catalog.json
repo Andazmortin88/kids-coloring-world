@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "hewan-01",
+    "name": "Kucing",
+    "category": "Hewan",
+    "level": 1,
+    "fact": "Kucing memiliki kumis yang peka.",
+    "quiz": {
+      "question": "Apa yang dimiliki kucing?",
+      "options": [
+        "Kumis",
+        "Sayap",
+        "Sirip"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/hewan-01.svg"
+  },
+  {
+    "id": "hewan-02",
+    "name": "Anjing",
+    "category": "Hewan",
+    "level": 1,
+    "fact": "Anjing mengenali banyak bau dengan hidungnya.",
+    "quiz": {
+      "question": "Anjing mencium bau dengan apa?",
+      "options": [
+        "Sayap",
+        "Ekor",
+        "Hidung"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/hewan-02.svg"
+  },
+  {
+    "id": "hewan-03",
+    "name": "Kelinci",
+    "category": "Hewan",
+    "level": 1,
+    "fact": "Kelinci memiliki telinga panjang.",
+    "quiz": {
+      "question": "Bagaimana telinga kelinci?",
+      "options": [
+        "Bersayap",
+        "Panjang",
+        "Bersisik"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/hewan-03.svg"
+  },
+  {
+    "id": "hewan-04",
+    "name": "Ikan",
+    "category": "Hewan",
+    "level": 1,
+    "fact": "Ikan bergerak di air menggunakan sirip.",
+    "quiz": {
+      "question": "Ikan bergerak di mana?",
+      "options": [
+        "Air",
+        "Langit",
+        "Tanah kering"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/hewan-04.svg"
+  },
+  {
+    "id": "hewan-05",
+    "name": "Burung",
+    "category": "Hewan",
+    "level": 1,
+    "fact": "Burung memiliki bulu dan paruh.",
+    "quiz": {
+      "question": "Burung memiliki apa?",
+      "options": [
+        "Belalai",
+        "Cangkang",
+        "Paruh"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/hewan-05.svg"
+  },
+  {
+    "id": "hewan-06",
+    "name": "Kupu-kupu",
+    "category": "Hewan",
+    "level": 2,
+    "fact": "Kupu-kupu memiliki dua pasang sayap.",
+    "quiz": {
+      "question": "Apa yang membantu kupu-kupu terbang?",
+      "options": [
+        "Kaki roda",
+        "Sayap",
+        "Sirip"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/hewan-06.svg"
+  },
+  {
+    "id": "hewan-07",
+    "name": "Gajah",
+    "category": "Hewan",
+    "level": 2,
+    "fact": "Gajah memakai belalai untuk mengambil air.",
+    "quiz": {
+      "question": "Apa yang panjang pada gajah?",
+      "options": [
+        "Belalai",
+        "Paruh",
+        "Sirip"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/hewan-07.svg"
+  },
+  {
+    "id": "hewan-08",
+    "name": "Sapi",
+    "category": "Hewan",
+    "level": 2,
+    "fact": "Sapi adalah hewan pemakan tumbuhan.",
+    "quiz": {
+      "question": "Sapi makan apa?",
+      "options": [
+        "Batu",
+        "Plastik",
+        "Tumbuhan"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/hewan-08.svg"
+  },
+  {
+    "id": "hewan-09",
+    "name": "Singa",
+    "category": "Hewan",
+    "level": 2,
+    "fact": "Singa jantan dewasa dapat memiliki surai.",
+    "quiz": {
+      "question": "Rambut lebat di sekitar kepala singa disebut apa?",
+      "options": [
+        "Sisik",
+        "Surai",
+        "Sirip"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/hewan-09.svg"
+  },
+  {
+    "id": "hewan-10",
+    "name": "Beruang",
+    "category": "Hewan",
+    "level": 2,
+    "fact": "Beruang memiliki cakar pada kakinya.",
+    "quiz": {
+      "question": "Beruang memiliki apa di kaki?",
+      "options": [
+        "Cakar",
+        "Sayap",
+        "Daun"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/hewan-10.svg"
+  },
+  {
+    "id": "hewan-11",
+    "name": "Kura-kura",
+    "category": "Hewan",
+    "level": 3,
+    "fact": "Cangkang melindungi tubuh kura-kura.",
+    "quiz": {
+      "question": "Apa pelindung kura-kura?",
+      "options": [
+        "Bulu tebal",
+        "Surai",
+        "Cangkang"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/hewan-11.svg"
+  },
+  {
+    "id": "hewan-12",
+    "name": "Katak",
+    "category": "Hewan",
+    "level": 3,
+    "fact": "Katak dapat melompat dengan kaki belakangnya.",
+    "quiz": {
+      "question": "Katak sering bergerak dengan cara apa?",
+      "options": [
+        "Berguling saja",
+        "Melompat",
+        "Mengayuh"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/hewan-12.svg"
+  },
+  {
+    "id": "hewan-13",
+    "name": "Penguin",
+    "category": "Hewan",
+    "level": 3,
+    "fact": "Penguin adalah burung yang pandai berenang.",
+    "quiz": {
+      "question": "Penguin pandai melakukan apa?",
+      "options": [
+        "Berenang",
+        "Memanjat pohon",
+        "Menggali dengan tanduk"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/hewan-13.svg"
+  },
+  {
+    "id": "hewan-14",
+    "name": "Harimau",
+    "category": "Hewan",
+    "level": 3,
+    "fact": "Harimau memiliki pola belang pada tubuhnya.",
+    "quiz": {
+      "question": "Apa pola pada tubuh harimau?",
+      "options": [
+        "Kotak biru",
+        "Polos semua",
+        "Belang"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/hewan-14.svg"
+  },
+  {
+    "id": "hewan-15",
+    "name": "Lebah",
+    "category": "Hewan",
+    "level": 3,
+    "fact": "Lebah mengunjungi bunga untuk mencari nektar.",
+    "quiz": {
+      "question": "Lebah mengunjungi apa?",
+      "options": [
+        "Batu bata",
+        "Bunga",
+        "Lemari"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/hewan-15.svg"
+  },
+  {
+    "id": "tumbuhan-01",
+    "name": "Pohon",
+    "category": "Tumbuhan",
+    "level": 1,
+    "fact": "Pohon memiliki akar, batang, dan daun.",
+    "quiz": {
+      "question": "Bagian yang menopang pohon disebut apa?",
+      "options": [
+        "Batang",
+        "Paruh",
+        "Roda"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/tumbuhan-01.svg"
+  },
+  {
+    "id": "tumbuhan-02",
+    "name": "Bunga matahari",
+    "category": "Tumbuhan",
+    "level": 1,
+    "fact": "Bunga matahari memiliki biji.",
+    "quiz": {
+      "question": "Bunga matahari menghasilkan apa?",
+      "options": [
+        "Batu",
+        "Kaca",
+        "Biji"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/tumbuhan-02.svg"
+  },
+  {
+    "id": "tumbuhan-03",
+    "name": "Tulip",
+    "category": "Tumbuhan",
+    "level": 1,
+    "fact": "Tulip adalah tumbuhan berbunga.",
+    "quiz": {
+      "question": "Tulip termasuk apa?",
+      "options": [
+        "Buah laut",
+        "Tumbuhan berbunga",
+        "Hewan"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/tumbuhan-03.svg"
+  },
+  {
+    "id": "tumbuhan-04",
+    "name": "Kaktus",
+    "category": "Tumbuhan",
+    "level": 1,
+    "fact": "Banyak kaktus memiliki duri.",
+    "quiz": {
+      "question": "Apa yang sering ada pada kaktus?",
+      "options": [
+        "Duri",
+        "Bulu burung",
+        "Sirip"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/tumbuhan-04.svg"
+  },
+  {
+    "id": "tumbuhan-05",
+    "name": "Pohon kelapa",
+    "category": "Tumbuhan",
+    "level": 1,
+    "fact": "Buah kelapa tumbuh pada pohon kelapa.",
+    "quiz": {
+      "question": "Apa buah pohon ini?",
+      "options": [
+        "Stroberi",
+        "Anggur",
+        "Kelapa"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/tumbuhan-05.svg"
+  },
+  {
+    "id": "tumbuhan-06",
+    "name": "Bambu",
+    "category": "Tumbuhan",
+    "level": 2,
+    "fact": "Batang bambu memiliki ruas.",
+    "quiz": {
+      "question": "Apa yang tampak pada batang bambu?",
+      "options": [
+        "Paruh",
+        "Ruas",
+        "Sirip"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/tumbuhan-06.svg"
+  },
+  {
+    "id": "tumbuhan-07",
+    "name": "Bunga daisy",
+    "category": "Tumbuhan",
+    "level": 2,
+    "fact": "Bunga memiliki kelopak.",
+    "quiz": {
+      "question": "Bagian berwarna di sekeliling bunga disebut apa?",
+      "options": [
+        "Kelopak",
+        "Cakar",
+        "Ekor"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/tumbuhan-07.svg"
+  },
+  {
+    "id": "tumbuhan-08",
+    "name": "Pakis",
+    "category": "Tumbuhan",
+    "level": 2,
+    "fact": "Pakis memiliki banyak helaian daun.",
+    "quiz": {
+      "question": "Pakis memiliki banyak apa?",
+      "options": [
+        "Bulu",
+        "Batu",
+        "Daun"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/tumbuhan-08.svg"
+  },
+  {
+    "id": "tumbuhan-09",
+    "name": "Lidah buaya",
+    "category": "Tumbuhan",
+    "level": 2,
+    "fact": "Lidah buaya memiliki daun tebal.",
+    "quiz": {
+      "question": "Bagaimana daun lidah buaya?",
+      "options": [
+        "Bersisik ikan",
+        "Tebal",
+        "Berbulu lebat"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/tumbuhan-09.svg"
+  },
+  {
+    "id": "tumbuhan-10",
+    "name": "Pohon pinus",
+    "category": "Tumbuhan",
+    "level": 2,
+    "fact": "Pohon pinus memiliki daun seperti jarum.",
+    "quiz": {
+      "question": "Daun pinus mirip apa?",
+      "options": [
+        "Jarum",
+        "Sendok",
+        "Bola"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/tumbuhan-10.svg"
+  },
+  {
+    "id": "tumbuhan-11",
+    "name": "Mawar",
+    "category": "Tumbuhan",
+    "level": 3,
+    "fact": "Mawar memiliki kelopak yang bertumpuk.",
+    "quiz": {
+      "question": "Mawar memiliki kelopak yang bagaimana?",
+      "options": [
+        "Dari kaca",
+        "Berbentuk roda",
+        "Bertumpuk"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/tumbuhan-11.svg"
+  },
+  {
+    "id": "tumbuhan-12",
+    "name": "Pohon pisang",
+    "category": "Tumbuhan",
+    "level": 3,
+    "fact": "Pohon pisang memiliki daun yang lebar.",
+    "quiz": {
+      "question": "Bagaimana daun pisang?",
+      "options": [
+        "Berbentuk sirip",
+        "Lebar",
+        "Berbentuk bulu"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/tumbuhan-12.svg"
+  },
+  {
+    "id": "tumbuhan-13",
+    "name": "Tanaman pot",
+    "category": "Tumbuhan",
+    "level": 3,
+    "fact": "Tanaman membutuhkan air untuk tumbuh.",
+    "quiz": {
+      "question": "Tanaman membutuhkan apa?",
+      "options": [
+        "Air",
+        "Plastik",
+        "Cat minyak"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/tumbuhan-13.svg"
+  },
+  {
+    "id": "tumbuhan-14",
+    "name": "Teratai",
+    "category": "Tumbuhan",
+    "level": 3,
+    "fact": "Teratai tumbuh di perairan.",
+    "quiz": {
+      "question": "Teratai tumbuh di mana?",
+      "options": [
+        "Atap kering",
+        "Dalam lemari",
+        "Perairan"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/tumbuhan-14.svg"
+  },
+  {
+    "id": "tumbuhan-15",
+    "name": "Daun mint",
+    "category": "Tumbuhan",
+    "level": 3,
+    "fact": "Mint adalah tumbuhan yang beraroma.",
+    "quiz": {
+      "question": "Mint termasuk apa?",
+      "options": [
+        "Burung",
+        "Tumbuhan",
+        "Ikan"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/tumbuhan-15.svg"
+  },
+  {
+    "id": "buah-01",
+    "name": "Apel",
+    "category": "Buah",
+    "level": 1,
+    "fact": "Apel memiliki biji di bagian tengahnya.",
+    "quiz": {
+      "question": "Di mana biji apel?",
+      "options": [
+        "Di tengah buah",
+        "Di sayap",
+        "Di ekor"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/buah-01.svg"
+  },
+  {
+    "id": "buah-02",
+    "name": "Pisang",
+    "category": "Buah",
+    "level": 1,
+    "fact": "Pisang tumbuh dalam kelompok yang disebut sisir.",
+    "quiz": {
+      "question": "Pisang tumbuh dalam kelompok bernama apa?",
+      "options": [
+        "Kawanan ikan",
+        "Kelopak",
+        "Sisir"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/buah-02.svg"
+  },
+  {
+    "id": "buah-03",
+    "name": "Jeruk",
+    "category": "Buah",
+    "level": 1,
+    "fact": "Jeruk memiliki kulit yang dapat dikupas.",
+    "quiz": {
+      "question": "Sebelum makan jeruk kita dapat mengupas apa?",
+      "options": [
+        "Batangnya saja",
+        "Kulitnya",
+        "Sayapnya"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/buah-03.svg"
+  },
+  {
+    "id": "buah-04",
+    "name": "Stroberi",
+    "category": "Buah",
+    "level": 1,
+    "fact": "Stroberi memiliki biji kecil di permukaannya.",
+    "quiz": {
+      "question": "Di mana biji kecil stroberi tampak?",
+      "options": [
+        "Di permukaan",
+        "Di sayap",
+        "Di cangkang keras"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/buah-04.svg"
+  },
+  {
+    "id": "buah-05",
+    "name": "Semangka",
+    "category": "Buah",
+    "level": 1,
+    "fact": "Semangka memiliki kulit tebal dan daging berair.",
+    "quiz": {
+      "question": "Bagaimana kulit semangka?",
+      "options": [
+        "Berbulu burung",
+        "Transparan",
+        "Tebal"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/buah-05.svg"
+  },
+  {
+    "id": "buah-06",
+    "name": "Anggur",
+    "category": "Buah",
+    "level": 2,
+    "fact": "Anggur tumbuh berkelompok dalam tandan.",
+    "quiz": {
+      "question": "Anggur tumbuh dalam apa?",
+      "options": [
+        "Sarang burung",
+        "Tandan",
+        "Cangkang"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/buah-06.svg"
+  },
+  {
+    "id": "buah-07",
+    "name": "Nanas",
+    "category": "Buah",
+    "level": 2,
+    "fact": "Nanas memiliki mahkota daun di bagian atas.",
+    "quiz": {
+      "question": "Apa di bagian atas nanas?",
+      "options": [
+        "Mahkota daun",
+        "Paruh",
+        "Sirip"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/buah-07.svg"
+  },
+  {
+    "id": "buah-08",
+    "name": "Mangga",
+    "category": "Buah",
+    "level": 2,
+    "fact": "Mangga memiliki satu biji besar.",
+    "quiz": {
+      "question": "Mangga memiliki biji yang bagaimana?",
+      "options": [
+        "Seperti bulu",
+        "Tidak pernah ada",
+        "Besar"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/buah-08.svg"
+  },
+  {
+    "id": "buah-09",
+    "name": "Pir",
+    "category": "Buah",
+    "level": 2,
+    "fact": "Buah pir biasanya melebar di bagian bawah.",
+    "quiz": {
+      "question": "Bagian pir yang sering lebih lebar adalah?",
+      "options": [
+        "Daun saja",
+        "Bawah",
+        "Tangkai"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/buah-09.svg"
+  },
+  {
+    "id": "buah-10",
+    "name": "Alpukat",
+    "category": "Buah",
+    "level": 2,
+    "fact": "Alpukat memiliki satu biji besar di tengah.",
+    "quiz": {
+      "question": "Biji alpukat berada di mana?",
+      "options": [
+        "Tengah buah",
+        "Ujung daun",
+        "Luar tangkai"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/buah-10.svg"
+  },
+  {
+    "id": "buah-11",
+    "name": "Ceri",
+    "category": "Buah",
+    "level": 3,
+    "fact": "Ceri adalah buah kecil yang bertangkai.",
+    "quiz": {
+      "question": "Ceri memiliki apa?",
+      "options": [
+        "Sayap",
+        "Kaki",
+        "Tangkai"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/buah-11.svg"
+  },
+  {
+    "id": "buah-12",
+    "name": "Pepaya",
+    "category": "Buah",
+    "level": 3,
+    "fact": "Pepaya memiliki banyak biji di bagian dalam.",
+    "quiz": {
+      "question": "Pepaya memiliki apa di dalamnya?",
+      "options": [
+        "Sirip",
+        "Biji",
+        "Bulu"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/buah-12.svg"
+  },
+  {
+    "id": "buah-13",
+    "name": "Lemon",
+    "category": "Buah",
+    "level": 3,
+    "fact": "Lemon memiliki rasa asam.",
+    "quiz": {
+      "question": "Bagaimana rasa lemon?",
+      "options": [
+        "Asam",
+        "Asin seperti garam",
+        "Pedas seperti cabai"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/buah-13.svg"
+  },
+  {
+    "id": "buah-14",
+    "name": "Belimbing",
+    "category": "Buah",
+    "level": 3,
+    "fact": "Irisan melintang belimbing berbentuk seperti bintang.",
+    "quiz": {
+      "question": "Irisan belimbing mirip apa?",
+      "options": [
+        "Roda persegi",
+        "Daun panjang",
+        "Bintang"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/buah-14.svg"
+  },
+  {
+    "id": "buah-15",
+    "name": "Jambu biji",
+    "category": "Buah",
+    "level": 3,
+    "fact": "Jambu biji memiliki banyak biji kecil.",
+    "quiz": {
+      "question": "Jambu biji memiliki apa?",
+      "options": [
+        "Paruh",
+        "Banyak biji kecil",
+        "Sayap"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/buah-15.svg"
+  },
+  {
+    "id": "makanan-01",
+    "name": "Nasi",
+    "category": "Makanan",
+    "level": 1,
+    "fact": "Nasi berasal dari beras yang dimasak.",
+    "quiz": {
+      "question": "Nasi dibuat dari apa?",
+      "options": [
+        "Beras",
+        "Pasir",
+        "Kapas"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/makanan-01.svg"
+  },
+  {
+    "id": "makanan-02",
+    "name": "Roti",
+    "category": "Makanan",
+    "level": 1,
+    "fact": "Roti dapat dibuat dari tepung.",
+    "quiz": {
+      "question": "Bahan roti adalah?",
+      "options": [
+        "Batu",
+        "Plastik",
+        "Tepung"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/makanan-02.svg"
+  },
+  {
+    "id": "makanan-03",
+    "name": "Pizza",
+    "category": "Makanan",
+    "level": 1,
+    "fact": "Pizza dapat diberi berbagai topping.",
+    "quiz": {
+      "question": "Apa yang dapat ditaruh di atas pizza?",
+      "options": [
+        "Kelereng",
+        "Topping",
+        "Kertas kado"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/makanan-03.svg"
+  },
+  {
+    "id": "makanan-04",
+    "name": "Es krim",
+    "category": "Makanan",
+    "level": 1,
+    "fact": "Es krim disajikan dalam keadaan dingin.",
+    "quiz": {
+      "question": "Es krim biasanya terasa bagaimana?",
+      "options": [
+        "Dingin",
+        "Panas mendidih",
+        "Kering seperti pasir"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/makanan-04.svg"
+  },
+  {
+    "id": "makanan-05",
+    "name": "Donat",
+    "category": "Makanan",
+    "level": 1,
+    "fact": "Donat sering berbentuk cincin.",
+    "quiz": {
+      "question": "Donat sering berbentuk apa?",
+      "options": [
+        "Segitiga tajam",
+        "Kubus",
+        "Cincin"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/makanan-05.svg"
+  },
+  {
+    "id": "makanan-06",
+    "name": "Burger",
+    "category": "Makanan",
+    "level": 2,
+    "fact": "Burger berisi roti dan aneka isian.",
+    "quiz": {
+      "question": "Bagian luar burger biasanya apa?",
+      "options": [
+        "Kulit buah",
+        "Roti",
+        "Cangkang"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/makanan-06.svg"
+  },
+  {
+    "id": "makanan-07",
+    "name": "Cupcake",
+    "category": "Makanan",
+    "level": 2,
+    "fact": "Cupcake adalah kue berukuran kecil.",
+    "quiz": {
+      "question": "Cupcake termasuk apa?",
+      "options": [
+        "Kue",
+        "Sayur",
+        "Minuman"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/makanan-07.svg"
+  },
+  {
+    "id": "makanan-08",
+    "name": "Kue lapis",
+    "category": "Makanan",
+    "level": 2,
+    "fact": "Kue lapis tersusun dari beberapa lapisan.",
+    "quiz": {
+      "question": "Kue lapis memiliki apa?",
+      "options": [
+        "Sayap",
+        "Sirip",
+        "Lapisan"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/makanan-08.svg"
+  },
+  {
+    "id": "makanan-09",
+    "name": "Sup",
+    "category": "Makanan",
+    "level": 2,
+    "fact": "Sup dapat berisi sayuran.",
+    "quiz": {
+      "question": "Apa yang bisa ada dalam sup?",
+      "options": [
+        "Plastik",
+        "Sayuran",
+        "Kancing baju"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/makanan-09.svg"
+  },
+  {
+    "id": "makanan-10",
+    "name": "Mi",
+    "category": "Makanan",
+    "level": 2,
+    "fact": "Mi berbentuk untaian panjang.",
+    "quiz": {
+      "question": "Mi berbentuk apa?",
+      "options": [
+        "Untaian panjang",
+        "Bola keras",
+        "Daun utuh"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/makanan-10.svg"
+  },
+  {
+    "id": "makanan-11",
+    "name": "Telur matang",
+    "category": "Makanan",
+    "level": 3,
+    "fact": "Telur dapat dimasak sebelum dimakan.",
+    "quiz": {
+      "question": "Sebelum dimakan telur dapat diapakan?",
+      "options": [
+        "Dicat tembok",
+        "Dilem",
+        "Dimasak"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/makanan-11.svg"
+  },
+  {
+    "id": "makanan-12",
+    "name": "Keju",
+    "category": "Makanan",
+    "level": 3,
+    "fact": "Keju dapat dibuat dari susu.",
+    "quiz": {
+      "question": "Keju dapat dibuat dari apa?",
+      "options": [
+        "Kayu",
+        "Susu",
+        "Pasir"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/makanan-12.svg"
+  },
+  {
+    "id": "makanan-13",
+    "name": "Sandwich",
+    "category": "Makanan",
+    "level": 3,
+    "fact": "Sandwich memiliki isian di antara roti.",
+    "quiz": {
+      "question": "Di mana isian sandwich?",
+      "options": [
+        "Di antara roti",
+        "Di luar piring saja",
+        "Dalam gelas"
+      ],
+      "answer": 0
+    },
+    "svg": "assets/makanan-13.svg"
+  },
+  {
+    "id": "makanan-14",
+    "name": "Popcorn",
+    "category": "Makanan",
+    "level": 3,
+    "fact": "Popcorn dibuat dari biji jagung yang dipanaskan.",
+    "quiz": {
+      "question": "Popcorn berasal dari apa?",
+      "options": [
+        "Beras saja",
+        "Kacang tanah saja",
+        "Jagung"
+      ],
+      "answer": 2
+    },
+    "svg": "assets/makanan-14.svg"
+  },
+  {
+    "id": "makanan-15",
+    "name": "Salad buah",
+    "category": "Makanan",
+    "level": 3,
+    "fact": "Salad buah berisi potongan buah.",
+    "quiz": {
+      "question": "Salad buah berisi apa?",
+      "options": [
+        "Daun kertas",
+        "Potongan buah",
+        "Batu kecil"
+      ],
+      "answer": 1
+    },
+    "svg": "assets/makanan-15.svg"
+  }
+]
